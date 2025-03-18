@@ -2,7 +2,9 @@
   <diagram name="Page-1" id="ADqag6U28WJguTyAMG1K">
     <mxGraphModel dx="2085" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
-        <mxCell id="0" />
+        <object label="" HAZEL="" id="0">
+          <mxCell />
+        </object>
         <mxCell id="1" parent="0" />
         <mxCell id="g1vbs8MuK60aYzZgxMlk-1" value="Srilanka ISP&lt;div&gt;&amp;nbsp;斯里兰卡运营商&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="170" width="120" height="60" as="geometry" />
